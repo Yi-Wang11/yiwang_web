@@ -1,0 +1,51 @@
+---
+title: "Yi Wang"
+subtitle: |
+  Ph.D. Candidate<br>Purdue University<br>
+  <a href="mailto:wang5263@purdue.edu">wang5263@purdue.edu</a>
+
+image: "content/images/headshot_2022(2).jpg"
+
+about:
+  template: trestles
+  image-shape: round
+  image-width: "200px"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yi-wang-agecon
+
+execute:
+  echo: false
+comments: false
+---
+
+
+### Bio
+
+I am a Ph.D. candidate in the Department of Agricultural Economics at Purdue University and I will be on the job market in the Summer of 2026. I am interested in applying economic theory and empirical methods to understand the intersection of government policy, market structure, firm conduct, and consumer welfare, particularly in the food and agricultural sectors.
+
+### Job Market Paper
+My job market paper studies the vertical relationships in the U.S. infant formula market under the WIC program and its rebate system, and aims to answer:
+<span style="font-style: italic; color: var(--bs-link-color);">
+  How are infant formula prices set, and what are the implications of this pricing structure for the distribution of surplus across manufacturers, retailers, consumers, and the government?
+</span>
+
+You can read the full paper [here](content/pdfs/JMP_yw.pdf).
+
+
+### Education
+
+- **Purdue University** | PhD in Agricultural Economics | 2026 (Expected)  
+- **UC Davis** | MS in Agricultural and Resource Economics | 2020
+- **China Three Gorges University** | M.S. in Technology Economics and Management | 2019
+
+- **China Three Gorges University** | B.M.S. in Logistics Management | 2016
+
+
+
+
+

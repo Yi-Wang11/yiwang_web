@@ -1,0 +1,52 @@
+project:
+  type: website
+  resources: 
+    - content/pdfs/cv_yw.pdf
+
+website:
+  title: "Yi Wang's Website"
+  open-graph: true  # Enables social media previews
+  page-footer: "Made with ❤️ and Quarto"
+
+  navbar:
+    # background: primary  # Optional: uncomment for colored navbar
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Misc."
+        href: Misc.qmd      
+ 
+
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 90px
+
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.scss
+    #css: yiwang_theme.scss
+
+    toc: false
+    comments:
+      giscus:
+        repo: yourgithubusername/your-repo-name      # Replace with your GitHub repo
+        repo-id: REPLACE_THIS                        # Replace with your repo ID
+        category: Comments
+        category-id: REPLACE_THIS                    # Replace with your category ID
+        mapping: pathname
+        input-position: top
+        theme: light
+        language: en
+        reactions-enabled: false
+    #include-in-header: header.html  # Optional, if you have custom <head> content

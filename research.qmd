@@ -1,0 +1,40 @@
+---
+title: "Research"
+lang: en
+execute:
+  echo: false
+comments: false
+toc: false
+freeze: false
+---
+## Job Market Paper
+#### **Testing Vertical Relationships in the US Infant Formula Market: Implications for Government Costs and Welfare**
+
+<div class="justified-abstract">
+- **Abstract:** The US Special Supplemental Nutrition Program for Women, Infants, and Children
+(WIC) provides free infant formula to low-income households, serving around 39% of
+US infants and accounting for over half of all domestically sold formula—making it a
+substantial government expenditure. To reduce government costs, WIC awards exclusive contracts to manufacturers offering the lowest net price in each state and collects
+rebates from the winning bidders via public auction, effectively creating governmentsanctioned monopolies in the WIC market. The broader implications of this policy hinge on vertical relationships between manufacturers and retailers, which remain
+poorly understood. I identify the vertical relationship as best characterized by twopart tariffs, where retailers pay fixed fees to manufacturers and wholesale markups
+are zero. Counterfactual analyses show that, when pricing control shifts to manufacturers, average retail prices increase by 3.79%, producer surplus rises by 2.17%, and consumer surplus
+declines by 7.44%. I also observe heterogeneous price responses for WIC auction
+winners and losers. Notably, winners generally raise prices when granted retail pricing
+power. These findings underscore the importance of firm conduct in shaping program
+efficacy and market outcomes.
+- [Poster presentation at the 2025 AAEA Annual Meeting](content/pdfs/2025aaea_poster.pdf)
+- Read the full paper [here](content/pdfs/JMP_yw.pdf)
+
+</div>
+
+
+## Publications
+- Consoli, S., Fraysse, E.A., Slipchenko, N., **Wang, Y.**, Amirebrahimi, J., Qin, Z., Yazma, N., and Lybbert, T.J., 2022. A “Sideways” Supply Response in California Winegrapes. Journal of Wine Economics 17(1), 42-63
+- Zhao, X., **Wang, Y.**, and Daun, Y. 2018. Study on the effect of the employment structural adjustment on land transfer of reservoir resettlement –– based on immigrants in south-to-north water diversion project. [In Chinese]
+
+## Policy & Extension Outputs
+These projects translate research insights into tools, reports, and visualizations for government and industry stakeholders.
+
+- USDA Report: Processor-Retailer Relationship in the US Beef Supply Chain: Preliminary Analysis Report (With Joseph V Balagtas, Meilin Ma, and Juan Pablo Sesmero)
+- Regional Industry Cluster Drill-Down Series (With Indraneel Kumar and Roberto Gallardo)
+- Indiana Creative Economy 2022 Report (With Indraneel Kumar and Roberto Gallardo)

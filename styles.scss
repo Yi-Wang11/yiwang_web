@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Sass Variables
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+/* Colors */
+$body-bg: #FFFFFF;
+$body-color: rgb(55, 58, 60);
+$link-color: rgb(39, 128, 227);
+
+/* Fonts */
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-size-root: 20px;
+
+
+/* Match section headers (h2) with navbar color */
+h2 {
+  color: #2c3e50;  /* Same color as your navbar background */
+}
+
+/* === Custom Navbar Color Override === */
+
+/* Optional: text and icon color */
+
+/* Optional: hover color */
+.navbar .nav-link:hover {
+  color: #18bc9c !important; /* darker brown for hover contrast */
+}
+
+
+.justified-abstract {
+  text-align: justify;
+}

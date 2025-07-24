@@ -1,0 +1,15 @@
+---
+title: Yi Wang's Curriculum vitæ
+page-layout: full
+published-title: CV last updated
+freeze: false
+---
+
+:::{.text-center}
+[<button class="btn btn-primary">📄 Download current CV</button>](content/pdfs/cv_yw.pdf){target="_blank"}
+:::
+
+<div class="embed-container">
+  <iframe src="content/pdfs/cv_yw.pdf" style="border: none;" width="100%" height="800px"></iframe>
+</div>
+
