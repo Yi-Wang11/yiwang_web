@@ -17,7 +17,7 @@ I view teaching as a form of service, and my role is to support students as they
 
 - AGEC 516 – Mathematical tools for Agricultural and Applied Economics, Fall 2024, Purdue  
   - Evaluation: 4.67/5  
-  - [Syllabus](content/pdfs/AGEC 516 Fall 2024 Syllabus_YiWang.pdf)
+  - [Syllabus](content/pdfs/AGEC516_Fall2024_Syllabus_YiWang.pdf)
 
 - Ph.D. Math Camp, Summer 2024, Purdue
 

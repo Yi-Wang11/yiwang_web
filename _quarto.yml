@@ -50,3 +50,6 @@ format:
         language: en
         reactions-enabled: false
     #include-in-header: header.html  # Optional, if you have custom <head> content
+
+execute:
+  freeze: auto
