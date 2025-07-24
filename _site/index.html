@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.scss">
 <meta property="og:title" content="Yi Wang – Yi Wang’s Website">
 <meta property="og:description" content="Ph.D.&nbsp;CandidatePurdue University wang5263@purdue.edu">
-<meta property="og:image" content="content/images/headshot_2022(2).jpg">
+<meta property="og:image" content="https://chimerical-cupcake-ef545f.netlify.app/content/images/headshot_2022(2).jpg">
 <meta property="og:site_name" content="Yi Wang's Website">
 </head>
 
@@ -328,14 +328,6 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>China Three Gorges University</strong> | M.S. in Technology Economics and Management | 2019</p></li>
 <li><p><strong>China Three Gorges University</strong> | B.M.S. in Logistics Management | 2016</p></li>
 </ul>
-</section>
-<section id="teaching" class="level3">
-<h3 data-anchor-id="teaching">Teaching</h3>
-<ul>
-<li>AGEC 516 – Fall 2024<br>
-</li>
-<li>Ph.D.&nbsp;Math Camp – Summer 2024</li>
-</ul>
 
 
 </section>
@@ -420,7 +412,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/chimerical-cupcake-ef545f\.netlify\.app");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
