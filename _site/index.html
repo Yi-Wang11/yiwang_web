@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.scss">
 <meta property="og:title" content="Yi Wang – Yi Wang’s Website">
 <meta property="og:description" content="Ph.D.&nbsp;CandidatePurdue University wang5263@purdue.edu">
-<meta property="og:image" content="https://yiwang-11.com/content/images/headshot_2022(2).jpg">
+<meta property="og:image" content="content/images/headshot_2022(2).jpg">
 <meta property="og:site_name" content="Yi Wang's Website">
 </head>
 
@@ -412,7 +412,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/yiwang-11\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
