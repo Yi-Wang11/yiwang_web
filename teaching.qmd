@@ -13,7 +13,7 @@ toc: false
 - AGEC 516 – Mathematical tools for Agricultural and Applied Economics, Fall 2024, Purdue  
   - Evaluation: 4.67/5  
   - [Formal evaluation](content/pagec516_formal_eval.pdf.pdf)
-  - [Informal evaluation record](content/pagec516_informal_eval.pdf.pdf)
+  - [Informal evaluation](content/pagec516_informal_eval.pdf.pdf)
   - [Syllabus](content/pdfs/AGEC516_Fall2024_Syllabus_YiWang.pdf)
 
 - Ph.D. Math Camp, Summer 2024, Purdue
