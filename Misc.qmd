@@ -1,8 +1,51 @@
 ---
 title: "Misc"
+description: "Fun things I do outside of work."
 lang: en
 execute:
   echo: false
-comments: false
+  warning: false
+  message: false
 toc: false
+comments: false
 ---
+
+```{r}
+#| results: 'asis'
+
+# ==== CONFIG ====
+base_dir_disk <- "content/images"
+base_dir_url  <- "content/images"
+
+gallery <- function(section, heading, exts = c("jpg","jpeg","png","webp","gif")) {
+  dir_path <- file.path(base_dir_disk, section)
+
+  if (!dir.exists(dir_path)) {
+    cat(sprintf("\n\n### %s\n\n*No images found in `%s`.*\n\n", heading, dir_path))
+    return(invisible(NULL))
+  }
+
+  pattern <- paste0("\\.(", paste(exts, collapse="|"), ")$")
+  files <- list.files(dir_path, pattern = pattern, ignore.case = TRUE, full.names = FALSE)
+  files <- files[order(tolower(files))]
+
+  if (length(files) == 0) {
+    cat(sprintf("\n\n### %s\n\n*No images found in `%s`.*\n\n", heading, dir_path))
+    return(invisible(NULL))
+  }
+
+  cat(sprintf("\n\n### %s\n<div class='gallery'>\n", heading))
+  for (f in files) {
+    url <- paste0(base_dir_url, "/", section, "/", utils::URLencode(f))
+    alt <- sub("\\.[A-Za-z0-9]+$", "", f)
+    cat(sprintf("![%s](%s)\n", alt, url))
+  }
+  cat("</div>\n\n")
+}
+
+# ==== RENDER SECTIONS ====
+gallery("bouldering", "Bouldering 🧗")
+gallery("hiking", "Hiking ⛰️")
+gallery("echo", "Walking with my dog Echo 🐶")
+gallery("soccer", "Amateur Soccer Player ⚽")
+```

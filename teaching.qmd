@@ -12,8 +12,8 @@ toc: false
 
 - AGEC 516 – Mathematical tools for Agricultural and Applied Economics, Fall 2024, Purdue  
   - Evaluation: 4.67/5  
-  - [Formal evaluation](content/pagec516_formal_eval.pdf)
-  - [Informal evaluation](content/pagec516_informal_eval.pdf)
+  - [Formal evaluation](content/pdfs/agec516_formal_eval.pdf)
+  - [Informal evaluation](content/pdfs/agec516_informal_eval.pdf)
   - [Syllabus](content/pdfs/AGEC516_Fall2024_Syllabus_YiWang.pdf)
 
 - Ph.D. Math Camp, Summer 2024, Purdue
@@ -30,11 +30,14 @@ toc: false
 ## Teaching Goal
 My primary teaching goal is to empower students to think critically, apply knowledge with confidence, and take ownership of their learning journey. I aim to make my teaching materials accessible, relevant, and engaging.  Ultimately, I want my students to leave the classroom not only with stronger technical skills but also with greater confidence in their ability to learn, solve real-world problems, and grow as independent thinkers and economists.
 
-## Brief Teaching Philosophy Statement
+## Teaching Philosophy
 I view teaching as a form of service, and my role is to support students as they grow into confident, curious, and independent economists. I do this by building a classroom environment where students feel seen, heard, and respected. I design clear, flexible materials to make challenging content accessible, and I regularly seek feedback to adjust my teaching in real time. I hold high expectations while providing consistent support, so students are both challenged and encouraged. Through reflection, responsiveness, and care, I meet students where they are and help them move forward.
 
 
 ## Teaching Development & Pedagogical Training
+#### 2025 AAEA Second Annual Teaching Academy Workshop, Denver, CO
+- This workshop provided practical training in Universal Course Design (UCD) and the Scholarship of Teaching and Learning (SoTL), with a focus on inclusive teaching strategies and evidence-based pedagogy. I learned techniques to support diverse learners and gained tools to design SoTL studies. These insights will inform future course design and support my development as a reflective, research-informed instructor.
+
 #### 2024 AAEA First Annual Teaching Academy Workshop, New Orleans, LA
 - I attended this one-day AAEA workshop focused on effective teaching, classroom engagement, and inclusive learning. Sessions on building community and classroom engagement helped shape my teaching philosophy and informed my approach to designing and teaching my first master’s-level course, which received positive student feedback and led to my nomination for Purdue’s College of Agriculture Graduate Student Excellence in Teaching Award. The workshop also enriched my teaching “knowledge tank”—a growing foundation of strategies and insights I continually draw from as I evolve in my teaching journey.
 

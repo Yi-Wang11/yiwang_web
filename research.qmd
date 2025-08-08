@@ -29,8 +29,13 @@ efficacy and market outcomes.
 
 
 ## Publications
+- **Wang, Yi**. 2024. Do High Rebates Guarantee High-Cost Savings? Purdue Agricultural Economics Report, May 15, 2024. PAER-2024-19.
 - Consoli, S., Fraysse, E.A., Slipchenko, N., **Wang, Y.**, Amirebrahimi, J., Qin, Z., Yazma, N., and Lybbert, T.J., 2022. A “Sideways” Supply Response in California Winegrapes. Journal of Wine Economics 17(1), 42-63
 - Zhao, X., **Wang, Y.**, and Daun, Y. 2018. Study on the effect of the employment structural adjustment on land transfer of reservoir resettlement –– based on immigrants in south-to-north water diversion project. [In Chinese]
+
+## Works in Progress
+- Markets for Private Label and National Brand Beef, _With Joseph V Balagtas, Meilin Ma, and Juan P. Sesmero._
+- Supply shock and infant formula prices: evidence from the US
 
 ## Policy & Extension Outputs
 These projects translate research insights into tools, reports, and visualizations for government and industry stakeholders.

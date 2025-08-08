@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
     - content/pdfs/cv_yw.pdf
+    - "content/images/**" 
 
 website:
   title: "Yi Wang's Website"

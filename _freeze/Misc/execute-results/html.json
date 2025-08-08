@@ -1,0 +1,15 @@
+{
+  "hash": "68f55ebbf050d7b5a07e2434191a1d92",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Misc\"\ndescription: \"Fun things I do outside of work.\"\nlang: en\nexecute:\n  echo: false\n  warning: false\n  message: false\ntoc: false\ncomments: false\n---\n\n\n### Bouldering 🧗\n<div class='gallery'>\n![IMG-20250802-WA0020](content/images/bouldering/IMG-20250802-WA0020.jpg)\n![IMG-20250807-WA0001](content/images/bouldering/IMG-20250807-WA0001.jpg)\n![IMG-20250807-WA0002](content/images/bouldering/IMG-20250807-WA0002.jpg)\n![IMG-20250807-WA0003](content/images/bouldering/IMG-20250807-WA0003.jpg)\n</div>\n\n\n\n### Hiking ⛰️\n<div class='gallery'>\n![IMG-20250807-WA0004](content/images/hiking/IMG-20250807-WA0004.jpg)\n![IMG-20250807-WA0005](content/images/hiking/IMG-20250807-WA0005.jpg)\n![IMG-20250807-WA0006](content/images/hiking/IMG-20250807-WA0006.jpg)\n![IMG-20250807-WA0007](content/images/hiking/IMG-20250807-WA0007.jpg)\n![IMG-20250807-WA0008](content/images/hiking/IMG-20250807-WA0008.jpg)\n![IMG-20250807-WA0009](content/images/hiking/IMG-20250807-WA0009.jpg)\n![IMG-20250807-WA0010](content/images/hiking/IMG-20250807-WA0010.jpg)\n![IMG-20250807-WA0011](content/images/hiking/IMG-20250807-WA0011.jpg)\n![IMG-20250807-WA0012](content/images/hiking/IMG-20250807-WA0012.jpg)\n![IMG-20250807-WA0013](content/images/hiking/IMG-20250807-WA0013.jpg)\n![IMG-20250807-WA0014](content/images/hiking/IMG-20250807-WA0014.jpg)\n![IMG-20250807-WA0015](content/images/hiking/IMG-20250807-WA0015.jpg)\n![IMG-20250807-WA0016](content/images/hiking/IMG-20250807-WA0016.jpg)\n![IMG-20250807-WA0017](content/images/hiking/IMG-20250807-WA0017.jpg)\n![IMG-20250807-WA0018](content/images/hiking/IMG-20250807-WA0018.jpg)\n![IMG-20250807-WA0025](content/images/hiking/IMG-20250807-WA0025.jpg)\n![IMG-20250807-WA0026](content/images/hiking/IMG-20250807-WA0026.jpg)\n![IMG-20250807-WA0027](content/images/hiking/IMG-20250807-WA0027.jpg)\n![IMG-20250807-WA0028](content/images/hiking/IMG-20250807-WA0028.jpg)\n![IMG-20250807-WA0029](content/images/hiking/IMG-20250807-WA0029.jpg)\n![IMG-20250807-WA0030](content/images/hiking/IMG-20250807-WA0030.jpg)\n</div>\n\n\n\n### Walking with my dog Echo 🐶\n<div class='gallery'>\n![IMG-20250610-WA0013](content/images/echo/IMG-20250610-WA0013.jpg)\n![IMG-20250610-WA0014](content/images/echo/IMG-20250610-WA0014.jpg)\n![IMG-20250807-WA0019](content/images/echo/IMG-20250807-WA0019.jpg)\n![IMG-20250807-WA0020](content/images/echo/IMG-20250807-WA0020.jpg)\n![IMG-20250807-WA0021](content/images/echo/IMG-20250807-WA0021.jpg)\n![IMG-20250807-WA0022](content/images/echo/IMG-20250807-WA0022.jpg)\n![IMG-20250807-WA0023](content/images/echo/IMG-20250807-WA0023.jpg)\n![IMG-20250807-WA0024](content/images/echo/IMG-20250807-WA0024.jpg)\n</div>\n\n\n\n### Amateur Soccer Player ⚽\n<div class='gallery'>\n![linearagression](content/images/soccer/linearagression.jpg)\n![soccer](content/images/soccer/soccer.jpg)\n</div>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
