@@ -3,6 +3,7 @@ title: Yi Wang's Curriculum vitæ
 page-layout: full
 published-title: CV last updated
 freeze: false
+comments: false
 ---
 
 :::{.text-center}
