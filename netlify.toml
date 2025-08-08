@@ -1,2 +1,10 @@
+[build]
+  publish = "_site"   # Deploy the Quarto output folder
+  # leave command empty; the plugin will run Quarto
+
 [[plugins]]
-package = "@quarto/netlify-plugin-quarto"
+  package = "@quarto/netlify-plugin-quarto"
+
+  # Optional: pin Quarto version if you ever see a version error
+  # [plugins.inputs]
+  #   version = "1.5.57"

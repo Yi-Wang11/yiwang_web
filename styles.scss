@@ -34,6 +34,7 @@ h2 {
 
 
 /* show images */
+/* Masonry layout for image gallery */
 .gallery {
   column-width: 260px;      /* target column width */
   column-gap: 14px;
@@ -41,13 +42,35 @@ h2 {
 
 .gallery img {
   width: 100%;
-  display: block;           /* remove inline gaps */
+  display: block;
   margin: 0 0 14px;
-  break-inside: avoid;      /* keep each image intact in a column */
+  break-inside: avoid;      /* prevent image from breaking between columns */
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   transition: transform 0.2s;
 }
 
-@media (max-width: 900px) { .gallery { column-width: 220px; } }
-@media (max-width: 600px) { .gallery { column-width: 100%; } } /* single column on phones */
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .gallery { column-width: 220px; }
+}
+
+@media (max-width: 600px) {
+  .gallery { column-width: 100%; } /* single column on phones */
+}
+
+
+/* Content links */
+a {
+  color: #18bc9c; /* your green */
+  text-decoration: none; /* optional: removes underline */
+}
+
+a:hover, a:focus {
+  color: #18bc9c;
+  text-decoration: underline; /* optional: underline on hover */
+}

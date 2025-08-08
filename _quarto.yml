@@ -32,11 +32,10 @@ format:
       body-width: 900px
       margin-width: 90px
 
+   # IMPORTANT: compile SCSS by loading it as part of the theme
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.scss
-    #css: yiwang_theme.scss
+      light: [flatly, styles.scss]
+      dark:  [darkly, styles.scss]
 
     toc: false
     comments:

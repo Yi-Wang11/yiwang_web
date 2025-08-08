@@ -11,9 +11,6 @@ about:
   image-shape: round
   image-width: "200px"
   links:
-    - icon: github
-      text: Github
-      href: https://github.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/yi-wang-agecon
