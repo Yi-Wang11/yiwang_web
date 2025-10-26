@@ -6,8 +6,5 @@
 
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
-```
 
-Then create a file called **`runtime.txt`** in your repository root with this content:
-```
-3.6
+
