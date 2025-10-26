@@ -11,10 +11,12 @@ toc: false
 ## Independent Instructor
 
 - AGEC 516 – Mathematical tools for Agricultural and Applied Economics, Fall 2024, Purdue  
-  - Evaluation: 4.67/5  
+  - Evaluation: 4.7/5  
   - [Formal evaluation](content/pdfs/agec516_formal_eval.pdf)
   - [Informal evaluation](content/pdfs/agec516_informal_eval.pdf)
   - [Syllabus](content/pdfs/AGEC516_Fall2024_Syllabus_YiWang.pdf)
+  - [Handout](content/pdfs/AGEC516 Handout System of Linear Equations.pdf)
+  - [Additional resources](content/pdfs/AGEC 516 Additional Learning Resources.pdf)
 
 - Ph.D. Math Camp, Summer 2024, Purdue
 
@@ -26,6 +28,9 @@ toc: false
 - Undergraduate Courses  
   - ARE 106 – Econometric Theory & Applications, Spring 2020, University of California, Davis
 
+## Reader/Grader
+- Undergraduate Courses
+  - ARE 132 Cooperative Business Enterprises, Winter 2020, University of California, Davis 
 
 ## Teaching Goal
 My primary teaching goal is to empower students to think critically, apply knowledge with confidence, and take ownership of their learning journey. I aim to make my teaching materials accessible, relevant, and engaging.  Ultimately, I want my students to leave the classroom not only with stronger technical skills but also with greater confidence in their ability to learn, solve real-world problems, and grow as independent thinkers and economists.

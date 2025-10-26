@@ -44,7 +44,7 @@ gallery <- function(section, heading, exts = c("jpg","jpeg","png","webp","gif"))
 }
 
 # ==== RENDER SECTIONS ====
-gallery("bouldering", "Bouldering 🧗")
+gallery("bouldering", "Bouldering and Outdoor Climbing 🧗")
 gallery("hiking", "Hiking ⛰️")
 gallery("echo", "Walking with my dog Echo 🐶")
 gallery("soccer", "Amateur Soccer Player ⚽")
