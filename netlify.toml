@@ -1,10 +1,9 @@
 [build]
-  publish = "_site"   # Deploy the Quarto output folder
-  # leave command empty; the plugin will run Quarto
+  publish = "_site"  # Quarto output folder
+  command = "apt-get update && apt-get install -y r-base && quarto render"
+
+[build.environment]
+  NODE_VERSION = "18"
 
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
-
-  # Optional: pin Quarto version if you ever see a version error
-  # [plugins.inputs]
-  #   version = "1.5.57"
