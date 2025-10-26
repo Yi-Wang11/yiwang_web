@@ -1,2 +1,13 @@
+[build]
+  publish = "_site"
+  command = """
+    sudo apt-get update -y && \
+    sudo apt-get install -y r-base r-base-dev && \
+    echo "R installed successfully"
+  """
+
+[build.environment]
+  NODE_VERSION = "18"
+
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
