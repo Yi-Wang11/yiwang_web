@@ -1,11 +1,2 @@
-[build]
-  publish = "_site"
-  command = """
-    curl -O https://cdn.rstudio.com/r/ubuntu-2004/pkgs/r-4.3.2_1_amd64.deb && \
-    apt-get update -qq && \
-    DEBIAN_FRONTEND=noninteractive apt-get install -f -y ./r-4.3.2_1_amd64.deb && \
-    rm r-4.3.2_1_amd64.deb
-  """
-
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
