@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Misc – Yi Wang’s Website">
 <meta property="og:description" content="Fun things I do outside of work.">
-<meta property="og:image" content="https://yiwang-11.com/content/images/bouldering/IMG-20250802-WA0020.jpg">
+<meta property="og:image" content="content/images/bouldering/IMG-20250802-WA0020.jpg">
 <meta property="og:site_name" content="Yi Wang's Website">
 <meta property="og:image:alt" content="IMG-20250802-WA0020">
 </head>
@@ -314,10 +314,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="bouldering" class="level3">
-<h3 class="anchored" data-anchor-id="bouldering">Bouldering 🧗</h3>
+<section id="bouldering-and-outdoor-climbing" class="level3">
+<h3 class="anchored" data-anchor-id="bouldering-and-outdoor-climbing">Bouldering and Outdoor Climbing 🧗</h3>
 <div class="gallery">
-<p><img src="content/images/bouldering/IMG-20250802-WA0020.jpg" class="img-fluid" alt="IMG-20250802-WA0020"> <img src="content/images/bouldering/IMG-20250807-WA0001.jpg" class="img-fluid" alt="IMG-20250807-WA0001"> <img src="content/images/bouldering/IMG-20250807-WA0002.jpg" class="img-fluid" alt="IMG-20250807-WA0002"> <img src="content/images/bouldering/IMG-20250807-WA0003.jpg" class="img-fluid" alt="IMG-20250807-WA0003"></p>
+<p><img src="content/images/bouldering/IMG-20250802-WA0020.jpg" class="img-fluid" alt="IMG-20250802-WA0020"> <img src="content/images/bouldering/IMG-20250807-WA0001.jpg" class="img-fluid" alt="IMG-20250807-WA0001"> <img src="content/images/bouldering/IMG-20250807-WA0002.jpg" class="img-fluid" alt="IMG-20250807-WA0002"> <img src="content/images/bouldering/IMG-20250807-WA0003.jpg" class="img-fluid" alt="IMG-20250807-WA0003"> <img src="content/images/bouldering/muirvalley.jpg" class="img-fluid" alt="muirvalley"> <img src="content/images/bouldering/muirvalley2.jpg" class="img-fluid" alt="muirvalley2"></p>
 </div>
 </section>
 <section id="hiking" class="level3">
@@ -427,7 +427,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/yiwang-11\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
