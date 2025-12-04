@@ -7,7 +7,7 @@ comments: false
 ---
 
 :::{.text-center}
-[<button class="btn btn-primary">📄 Download current CV</button>](content/pdfs/cv_yw.pdf){target="_blank"}
+[<button class="btn btn-primary">📄 Download current CV</button>](content/pdfs/CV_YW.pdf){target="_blank"}
 :::
 
 <div class="embed-container">
