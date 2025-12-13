@@ -11,17 +11,10 @@ freeze: false
 #### **Testing Vertical Relationships in the US Infant Formula Market: Implications for Government Costs and Welfare**
 
 <div class="justified-abstract">
-- **Abstract:** The U.S. Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides free infant formula to low-income households, serving around 39% of
-US infants and accounting for over half of all domestically sold formula—making it a substantial government expenditure. To reduce government costs, WIC awards exclusive contracts to manufacturers offering the lowest net price in each state and collects rebates from
-the winning bidders via public auction, effectively creating government-sanctioned monopolies in WIC markets. The broader implications of this policy hinge on vertical relationships
-between manufacturers and retailers, which remain poorly understood. I identify the vertical relationship as best characterized by two-part tariffs, where retailers pay fixed fees to
-manufacturers and wholesale markups are zero. This finding challenges the common but
-untested two-part tariff model with resale price maintenance assumption (RPM) in the literature. Counterfactual simulations show that under RPM, average retail prices would be
-3.8% higher, consumer surplus would be 7.4% lower, and producer surplus would be 2.2%
-higher. Disaggregated results reveal substantial heterogeneity across states and years: winners may raise or drop prices while losers consistently reduce prices though to varying degrees. Together, these findings demonstrate that conduct assumptions critically shape welfare
-outcomes.
+- **Abstract:** The U.S. Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) provides free infant formula to low-income households, serving around 39% of U.S. infants. As WIC’s single most expensive benefit , infant formula accounts for around half of the total WIC food costs. To reduce government costs, WIC awards exclusive contracts to manufacturers offering the lowest net price (i.e., wholesale price minus rebate) to the government in each state via public auction, effectively creating monopolies in the WIC market. The broader implications of this policy hinge on vertical relationships between manufacturers and retailers, which remain poorly understood. I identify the vertical relationship as best characterized by two-part tariffs (TPT), where retailers decide retail prices and pay fixed fees to manufacturers and wholesale markups are zero. This finding challenges the common but untested resale price maintenance (RPM) assumption in the literature. Counterfactual simulations show that TPT is more efficient than RPM, yielding higher consumer and total surplus while reducing government costs through lower total markups at equivalent net
+prices. Specifically, under RPM, average retail prices would be 3.8% higher, consumer surplus would be 7.4% lower, and producer surplus would be 2.2% higher under the current design of WIC. These findings demonstrate that conduct assumptions critically shape welfare outcomes.
 - [Poster presentation at the 2025 AAEA Annual Meeting](content/pdfs/2025aaea_poster.pdf)
-- Due to NielsenIQ data sharing policies, the full paper cannot be publicly posted. I am happy to share a copy upon individual request.
+- [JMP](content/pdfs/JMP_YiWang_1203.pdf)
 
 </div>
 

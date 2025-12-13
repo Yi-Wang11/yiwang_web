@@ -23,15 +23,15 @@ comments: false
 
 ### Bio
 
-I am a Ph.D. candidate in the Department of Agricultural Economics at Purdue University and I will be on the job market in the Summer of 2026. I am interested in applying economic theory and empirical methods to understand the intersection of government policy, market structure, firm conduct, and consumer welfare, particularly in the food and agricultural sectors.
+I am a Ph.D. candidate in the Department of Agricultural Economics at Purdue University, and expect to complete my degree by May 2026. I am interested in applying economic theory and empirical methods to understand the intersection of government policy, market structure, firm conduct, and consumer welfare, particularly in the food and agricultural sectors.
 
 ### Job Market Paper
 My job market paper studies the vertical relationships in the U.S. infant formula market under the WIC program and its rebate system, and aims to answer:
 <span style="font-style: italic; color: var(--bs-link-color);">
-  How are infant formula prices set, and what are the implications of this pricing structure for the distribution of surplus across manufacturers, retailers, consumers, and the government?
+  How is the infant formula market vertically organized, and how does this organization shape the cost and incidence of the WIC program?
 </span>
 
-Due to NielsenIQ data sharing policies, the full paper cannot be publicly posted. I am happy to share a copy upon individual request.
+[Ful paper](content/pdfs/JMP_YiWang_1203.pdf)
 
 
 ### Education
